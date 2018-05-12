@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44106#The-Confession-of-a-Fool
 gutenberg_issued: '2013-11-05'
 gutenberg_type: Text
 identifiers:
